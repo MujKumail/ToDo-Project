@@ -13,12 +13,6 @@ A simple, clean, and interactive **To-Do List** application built using **HTML, 
 - 💾 Saves tasks in local storage (optional)
 - 📱 Responsive design – works on mobile & desktop
 
----
-
-## 🖼️ Preview
-
-![To-Do App Screenshot](./screenshot.png)  
-*Make sure to include a screenshot of your app or replace the image path.*
 
 ---
 
